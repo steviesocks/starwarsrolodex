@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starwarsrolodex/static/css/main.2db41570.chunk.css",
+    "main.js": "/starwarsrolodex/static/js/main.6052aaae.chunk.js",
+    "main.js.map": "/starwarsrolodex/static/js/main.6052aaae.chunk.js.map",
+    "runtime-main.js": "/starwarsrolodex/static/js/runtime-main.86d06aa3.js",
+    "runtime-main.js.map": "/starwarsrolodex/static/js/runtime-main.86d06aa3.js.map",
+    "static/js/2.dcfaf863.chunk.js": "/starwarsrolodex/static/js/2.dcfaf863.chunk.js",
+    "static/js/2.dcfaf863.chunk.js.map": "/starwarsrolodex/static/js/2.dcfaf863.chunk.js.map",
+    "index.html": "/starwarsrolodex/index.html",
+    "precache-manifest.8282ec7e6713085c722eb79b70593275.js": "/starwarsrolodex/precache-manifest.8282ec7e6713085c722eb79b70593275.js",
+    "service-worker.js": "/starwarsrolodex/service-worker.js",
+    "static/css/main.2db41570.chunk.css.map": "/starwarsrolodex/static/css/main.2db41570.chunk.css.map",
+    "static/js/2.dcfaf863.chunk.js.LICENSE.txt": "/starwarsrolodex/static/js/2.dcfaf863.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86d06aa3.js",
+    "static/js/2.dcfaf863.chunk.js",
+    "static/css/main.2db41570.chunk.css",
+    "static/js/main.6052aaae.chunk.js"
+  ]
+}
